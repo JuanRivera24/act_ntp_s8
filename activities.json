@@ -1,0 +1,42 @@
+[
+    {
+        "activity": "SERIES - Ejercicio 1: Análisis de Ventas Diarias con Series. Crea una Serie con ventas diarias de una tienda (7 días), accede al índice 3, calcula el promedio de ventas, ordena por valores y muestra resultados.",
+        "solution": "src/ejercicio_01.py"
+    },
+    {
+        "activity": "SERIES - Ejercicio 2: Series con Índices Personalizados. Crea una Serie con calificaciones de estudiantes usando índices personalizados (nombres de materias), accede por índice, muestra información básica y calcula estadísticas.",
+        "solution": "src/ejercicio_02.py"
+    },
+    {
+        "activity": "SERIES - Ejercicio 3: Operaciones Matemáticas con Series. Crea dos Series (precios y descuentos), realiza operaciones de resta y multiplicación por escalar para simular IVA, mostrando resultados elemento por elemento.",
+        "solution": "src/ejercicio_03.py"
+    },
+    {
+        "activity": "DATAFRAMES - Ejercicio 4: DataFrame desde Diccionario. Crea un DataFrame con datos de productos (Producto, Precio, Categoria), accede a una columna específica y muestra información básica del DataFrame.",
+        "solution": "src/ejercicio_04.py"
+    },
+    {
+        "activity": "DATAFRAMES - Ejercicio 5: DataFrame desde Lista de Diccionarios. Crea un DataFrame a partir de una lista de empleados (empleado, salario, departamento), muestra el DataFrame y accede a filas específicas.",
+        "solution": "src/ejercicio_05.py"
+    },
+    {
+        "activity": "DATAFRAMES - Ejercicio 6: DataFrame desde Lista de Listas. Crea un DataFrame con datos de libros (Título, Autor, Año), muestra el DataFrame y sus dimensiones usando df.shape.",
+        "solution": "src/ejercicio_06.py"
+    },
+    {
+        "activity": "DATAFRAMES - Ejercicio 7: Lectura de Archivo CSV. Crea un archivo CSV con datos de cursos, léelo usando pandas, muestra el DataFrame e implementa manejo de errores si el archivo no existe.",
+        "solution": "src/ejercicio_07.py"
+    },
+    {
+        "activity": "DATAFRAMES - Ejercicio 8: DataFrame desde Archivo JSON. Genera un archivo JSON con datos de vehículos, léelo en un DataFrame y muestra tanto el contenido como los tipos de datos.",
+        "solution": "src/ejercicio_08.py"
+    },
+    {
+        "activity": "DATAFRAMES - Ejercicio 9: DataFrame desde Array NumPy. Crea un array NumPy con datos de ventas trimestrales, conviértelo en DataFrame, muestra los datos y verifica tipos de columnas.",
+        "solution": "src/ejercicio_09.py"
+    },
+    {
+        "activity": "DATAFRAMES - Ejercicio 10: DataFrame desde API REST. Consume la API https://playground.mockoon.com/users con requests, convierte la respuesta en DataFrame, muestra las primeras filas e implementa manejo de errores.",
+        "solution": "src/ejercicio_10.py"
+    }
+]

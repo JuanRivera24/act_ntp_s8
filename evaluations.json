@@ -1,0 +1,89 @@
+{
+  "JuanMRivera/act_ntp_s8": {
+    "repositoryUrl": "JuanRivera24/act_ntp_s8",
+    "studentName": "Juan Manuel Rivera Restrepo",
+    "activities": [
+      {
+        "activityDescription": "SERIES - Ejercicio 1: Análisis de Ventas Diarias con Series.",
+        "solutionFile": "src/ejercicio_01.py",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código funciona correctamente y cumple con los objetivos. Podría mejorarse eliminando prints innecesarios para hacerlo más limpio."
+      },
+      {
+        "activityDescription": "SERIES - Ejercicio 2: Series con Índices Personalizados.",
+        "solutionFile": "src/ejercicio_02.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Excelente solución. El código es claro, legible y usa correctamente los índices personalizados."
+      },
+      {
+        "activityDescription": "SERIES - Ejercicio 3: Operaciones Matemáticas con Series.",
+        "solutionFile": "src/ejercicio_03.py",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "El código cumple, pero las operaciones matemáticas podrían expresarse de manera más clara. Se recomienda documentar mejor los cálculos."
+      },
+      {
+        "activityDescription": "DATAFRAMES - Ejercicio 4: DataFrame desde Diccionario.",
+        "solutionFile": "src/ejercicio_04.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Muy bien resuelto. El DataFrame se crea correctamente y el acceso a columnas es adecuado."
+      },
+      {
+        "activityDescription": "DATAFRAMES - Ejercicio 5: DataFrame desde Lista de Diccionarios.",
+        "solutionFile": "src/ejercicio_05.py",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El DataFrame se construye bien. Podrías simplificar el acceso a las filas usando `.iloc` en lugar de `.loc` en algunos casos."
+      },
+      {
+        "activityDescription": "DATAFRAMES - Ejercicio 6: DataFrame desde Lista de Listas.",
+        "solutionFile": "src/ejercicio_06.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Correcto. La solución es clara y el uso de `shape` demuestra comprensión de las dimensiones del DataFrame."
+      },
+      {
+        "activityDescription": "DATAFRAMES - Ejercicio 7: Lectura de Archivo CSV.",
+        "solutionFile": "src/ejercicio_07.py",
+        "score": 2,
+        "fileFound": true,
+        "feedback": "El código lee el CSV, pero falta un mejor manejo de errores. Podrías añadir validación cuando el archivo no exista."
+      },
+      {
+        "activityDescription": "DATAFRAMES - Ejercicio 8: DataFrame desde Archivo JSON.",
+        "solutionFile": "src/ejercicio_08.py",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "El archivo JSON se lee correctamente, pero no se muestran todos los tipos de datos como se pedía."
+      },
+      {
+        "activityDescription": "DATAFRAMES - Ejercicio 9: DataFrame desde Array NumPy.",
+        "solutionFile": "src/ejercicio_09.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Bien hecho. El DataFrame se genera correctamente a partir del array NumPy y los tipos de columnas se verifican bien."
+      },
+      {
+        "activityDescription": "DATAFRAMES - Ejercicio 10: DataFrame desde API REST.",
+        "solutionFile": "src/ejercicio_10.py",
+        "score": 0,
+        "fileFound": false,
+        "feedback": "El archivo no fue encontrado o no se pudo ejecutar correctamente la petición a la API."
+      }
+    ],
+    "overallScore": 3.6,
+    "totalActivities": 10,
+    "completedActivities": 9,
+    "summary": "Buen trabajo general. Completó 9/10 actividades (90%) con una calificación promedio de 3.6/5. Muestra dominio básico de pandas y NumPy, pero aún debe mejorar el manejo de archivos externos y APIs.",
+    "recommendations": [
+      "Revisar la actividad 10 (API REST) y asegurar que el archivo exista en src/",
+      "Mejorar el manejo de errores en las actividades con archivos CSV/JSON",
+      "Agregar comentarios al código para mayor claridad"
+    ],
+    "evaluatedAt": "2025-09-21T15:45:00.000Z",
+    "evaluatedBy": "Sistema de Evaluación"
+  }
+}
